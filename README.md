@@ -25,7 +25,7 @@ To deploy the backend and the frontend:
 * `cd ..` move at the root of the project
 * `git remote add origin https://git-codecommit.*/repos/voice-to-code` add the newly created CodeCommit
 * `git add .` 
-* `git commit -m"initial commit"` 
+* `git commit -m "initial commit"` 
 * `git push` 
 
 ## How to use Voice to Code
